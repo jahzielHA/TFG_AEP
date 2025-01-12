@@ -12,7 +12,7 @@ Despite efforts to reduce early school leaving, Catalonia still has a higher dro
 rate than the European average. This situation has significant implications for
 the future of young people, as early school leaving is closely linked to lower social
 and labor integration, as well as the perpetuation of inequalities. Achieving the
-UE’s 9% target is therefore essential to ensure that all young people have the same
+EU’s 9% target is therefore essential to ensure that all young people have the same
 opportunities to realize their potential and contribute meaningfully to society.
 
 The results and conclusions of this project show that, despite the efforts made, there
