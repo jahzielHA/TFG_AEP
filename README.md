@@ -22,3 +22,5 @@ entities in analyzing in depth the factors influencing early school leaving. The
 greater effort is needed from public administrations to make this data accessible,
 fostering collaboration with independent entities that can provide new perspectives
 and solutions to reduce this problem.
+
+Dashboard: [Abandonament Escolar Prematur (Catalunya)](https://public.tableau.com/app/profile/jahziel.hidalgo/viz/AbandonamentEscolarPrematurCatalunya/AEPDashboard)
