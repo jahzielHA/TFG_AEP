@@ -1,0 +1,83 @@
+codi,comarca,sexe,repetixen
+01,alt camp,dona,71
+01,alt camp,home,115
+02,alt emporda,dona,254
+02,alt emporda,home,438
+03,alt penedes,dona,169
+03,alt penedes,home,273
+04,alt urgell,dona,14
+04,alt urgell,home,44
+05,alta ribagorca,dona,6
+05,alta ribagorca,home,13
+06,anoia,home,273
+06,anoia,dona,122
+07,bages,dona,129
+07,bages,home,295
+08,baix camp,dona,354
+08,baix camp,home,670
+09,baix ebre,dona,119
+09,baix ebre,home,256
+10,baix emporda,dona,151
+10,baix emporda,home,291
+11,baix llobregat,home,2233
+11,baix llobregat,dona,1183
+12,baix penedes,dona,251
+12,baix penedes,home,402
+13,barcelones,dona,2301
+13,barcelones,home,4073
+14,bergueda,dona,16
+14,bergueda,home,65
+15,cerdanya,dona,30
+15,cerdanya,home,57
+16,conca de barbera,home,28
+16,conca de barbera,dona,9
+17,garraf,dona,302
+17,garraf,home,520
+18,garrigues,dona,14
+18,garrigues,home,30
+19,garrotxa,dona,62
+19,garrotxa,home,118
+20,girones,home,472
+20,girones,dona,259
+21,maresme,home,983
+21,maresme,dona,438
+22,montsia,dona,89
+22,montsia,home,180
+23,noguera,dona,44
+23,noguera,home,93
+24,osona,dona,134
+24,osona,home,306
+25,pallars jussa,dona,14
+25,pallars jussa,home,19
+26,pallars sobira,dona,3
+26,pallars sobira,home,10
+27,pla d'urgell,dona,40
+27,pla d'urgell,home,79
+28,pla de l'estany,dona,20
+28,pla de l'estany,home,44
+29,priorat,home,23
+29,priorat,dona,4
+30,ribera d'ebre,dona,22
+30,ribera d'ebre,home,58
+31,ripolles,dona,22
+31,ripolles,home,55
+32,segarra,dona,28
+32,segarra,home,71
+33,segria,dona,334
+33,segria,home,617
+34,selva,dona,242
+34,selva,home,565
+35,solsones,dona,8
+35,solsones,home,23
+36,tarragones,dona,398
+36,tarragones,home,777
+37,terra alta,home,7
+37,terra alta,dona,5
+38,urgell,home,96
+38,urgell,dona,49
+40,valles occidental,dona,1192
+40,valles occidental,home,2096
+41,valles oriental,home,889
+41,valles oriental,dona,454
+42,moianes,home,13
+42,moianes,dona,8

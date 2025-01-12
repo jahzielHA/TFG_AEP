@@ -1,0 +1,410 @@
+codi,comarca,sexe,repetixen,any
+01,alt camp,dona,42,2022
+01,alt camp,home,83,2022
+02,alt emporda,dona,123,2022
+02,alt emporda,home,216,2022
+03,alt penedes,dona,76,2022
+03,alt penedes,home,165,2022
+04,alt urgell,dona,15,2022
+04,alt urgell,home,35,2022
+05,alta ribagorca,dona,7,2022
+05,alta ribagorca,home,6,2022
+06,anoia,home,215,2022
+06,anoia,dona,116,2022
+07,bages,dona,129,2022
+07,bages,home,202,2022
+08,baix camp,dona,189,2022
+08,baix camp,home,337,2022
+09,baix ebre,dona,70,2022
+09,baix ebre,home,110,2022
+10,baix emporda,dona,112,2022
+10,baix emporda,home,190,2022
+11,baix llobregat,home,1117,2022
+11,baix llobregat,dona,619,2022
+12,baix penedes,dona,111,2022
+12,baix penedes,home,194,2022
+13,barcelones,dona,1590,2022
+13,barcelones,home,2456,2022
+14,bergueda,dona,10,2022
+14,bergueda,home,38,2022
+15,cerdanya,dona,23,2022
+15,cerdanya,home,25,2022
+16,conca de barbera,home,16,2022
+16,conca de barbera,dona,10,2022
+17,garraf,dona,119,2022
+17,garraf,home,219,2022
+18,garrigues,dona,11,2022
+18,garrigues,home,16,2022
+19,garrotxa,dona,34,2022
+19,garrotxa,home,67,2022
+20,girones,home,276,2022
+20,girones,dona,167,2022
+21,maresme,home,526,2022
+21,maresme,dona,286,2022
+22,montsia,dona,72,2022
+22,montsia,home,98,2022
+23,noguera,dona,18,2022
+23,noguera,home,45,2022
+24,osona,dona,138,2022
+24,osona,home,191,2022
+25,pallars jussa,dona,10,2022
+25,pallars jussa,home,23,2022
+26,pallars sobira,dona,1,2022
+26,pallars sobira,home,2,2022
+27,pla d'urgell,dona,25,2022
+27,pla d'urgell,home,62,2022
+28,pla de l'estany,dona,13,2022
+28,pla de l'estany,home,28,2022
+29,priorat,home,12,2022
+29,priorat,dona,3,2022
+30,ribera d'ebre,dona,16,2022
+30,ribera d'ebre,home,39,2022
+31,ripolles,dona,6,2022
+31,ripolles,home,14,2022
+32,segarra,dona,11,2022
+32,segarra,home,35,2022
+33,segria,dona,228,2022
+33,segria,home,385,2022
+34,selva,dona,107,2022
+34,selva,home,230,2022
+35,solsones,dona,11,2022
+35,solsones,home,16,2022
+36,tarragones,dona,297,2022
+36,tarragones,home,420,2022
+37,terra alta,home,3,2022
+37,terra alta,dona,2,2022
+38,urgell,home,57,2022
+38,urgell,dona,29,2022
+40,valles occidental,dona,727,2022
+40,valles occidental,home,1279,2022
+41,valles oriental,home,476,2022
+41,valles oriental,dona,225,2022
+42,moianes,home,7,2022
+42,moianes,dona,9,2022
+01,alt camp,dona,52,2021
+01,alt camp,home,85,2021
+02,alt emporda,dona,115,2021
+02,alt emporda,home,201,2021
+03,alt penedes,dona,53,2021
+03,alt penedes,home,139,2021
+04,alt urgell,dona,10,2021
+04,alt urgell,home,34,2021
+05,alta ribagorca,dona,4,2021
+05,alta ribagorca,home,6,2021
+06,anoia,home,207,2021
+06,anoia,dona,102,2021
+07,bages,dona,98,2021
+07,bages,home,172,2021
+08,baix camp,dona,177,2021
+08,baix camp,home,289,2021
+09,baix ebre,dona,57,2021
+09,baix ebre,home,102,2021
+10,baix emporda,dona,74,2021
+10,baix emporda,home,113,2021
+11,baix llobregat,home,1114,2021
+11,baix llobregat,dona,558,2021
+12,baix penedes,dona,99,2021
+12,baix penedes,home,190,2021
+13,barcelones,dona,1398,2021
+13,barcelones,home,2305,2021
+14,bergueda,dona,11,2021
+14,bergueda,home,31,2021
+15,cerdanya,dona,12,2021
+15,cerdanya,home,32,2021
+16,conca de barbera,home,20,2021
+16,conca de barbera,dona,7,2021
+17,garraf,dona,113,2021
+17,garraf,home,221,2021
+18,garrigues,dona,5,2021
+18,garrigues,home,30,2021
+19,garrotxa,dona,26,2021
+19,garrotxa,home,71,2021
+20,girones,home,272,2021
+20,girones,dona,130,2021
+21,maresme,home,547,2021
+21,maresme,dona,253,2021
+22,montsia,dona,48,2021
+22,montsia,home,75,2021
+23,noguera,dona,29,2021
+23,noguera,home,51,2021
+24,osona,dona,89,2021
+24,osona,home,158,2021
+25,pallars jussa,dona,6,2021
+25,pallars jussa,home,8,2021
+26,pallars sobira,dona,4,2021
+26,pallars sobira,home,1,2021
+27,pla d'urgell,dona,42,2021
+27,pla d'urgell,home,63,2021
+28,pla de l'estany,dona,17,2021
+28,pla de l'estany,home,26,2021
+29,priorat,home,10,2021
+29,priorat,dona,4,2021
+30,ribera d'ebre,dona,14,2021
+30,ribera d'ebre,home,19,2021
+31,ripolles,dona,18,2021
+31,ripolles,home,30,2021
+32,segarra,dona,10,2021
+32,segarra,home,42,2021
+33,segria,dona,187,2021
+33,segria,home,349,2021
+34,selva,dona,110,2021
+34,selva,home,198,2021
+35,solsones,dona,8,2021
+35,solsones,home,18,2021
+36,tarragones,dona,273,2021
+36,tarragones,home,428,2021
+37,terra alta,home,4,2021
+37,terra alta,dona,1,2021
+38,urgell,home,42,2021
+38,urgell,dona,23,2021
+40,valles occidental,dona,678,2021
+40,valles occidental,home,1228,2021
+41,valles oriental,home,454,2021
+41,valles oriental,dona,204,2021
+42,moianes,home,10,2021
+42,moianes,dona,3,2021
+01,alt camp,dona,27,2020
+01,alt camp,home,74,2020
+02,alt emporda,dona,128,2020
+02,alt emporda,home,172,2020
+03,alt penedes,dona,35,2020
+03,alt penedes,home,120,2020
+04,alt urgell,dona,5,2020
+04,alt urgell,home,9,2020
+05,alta ribagorca,home,1,2020
+06,anoia,home,152,2020
+06,anoia,dona,74,2020
+07,bages,dona,77,2020
+07,bages,home,156,2020
+08,baix camp,dona,113,2020
+08,baix camp,home,192,2020
+09,baix ebre,dona,57,2020
+09,baix ebre,home,101,2020
+10,baix emporda,dona,45,2020
+10,baix emporda,home,97,2020
+11,baix llobregat,home,765,2020
+11,baix llobregat,dona,407,2020
+12,baix penedes,dona,64,2020
+12,baix penedes,home,118,2020
+13,barcelones,dona,955,2020
+13,barcelones,home,1734,2020
+14,bergueda,dona,13,2020
+14,bergueda,home,31,2020
+15,cerdanya,dona,9,2020
+15,cerdanya,home,15,2020
+16,conca de barbera,home,11,2020
+16,conca de barbera,dona,2,2020
+17,garraf,dona,99,2020
+17,garraf,home,177,2020
+18,garrigues,dona,6,2020
+18,garrigues,home,16,2020
+19,garrotxa,dona,21,2020
+19,garrotxa,home,42,2020
+20,girones,dona,99,2020
+20,girones,home,202,2020
+21,maresme,home,392,2020
+21,maresme,dona,206,2020
+22,montsia,dona,52,2020
+22,montsia,home,69,2020
+23,noguera,dona,13,2020
+23,noguera,home,30,2020
+24,osona,home,114,2020
+24,osona,dona,51,2020
+25,pallars jussa,dona,8,2020
+25,pallars jussa,home,3,2020
+26,pallars sobira,dona,1,2020
+26,pallars sobira,home,3,2020
+27,pla d'urgell,dona,25,2020
+27,pla d'urgell,home,44,2020
+28,pla de l'estany,dona,13,2020
+28,pla de l'estany,home,16,2020
+29,priorat,home,13,2020
+29,priorat,dona,7,2020
+30,ribera d'ebre,dona,9,2020
+30,ribera d'ebre,home,20,2020
+31,ripolles,dona,11,2020
+31,ripolles,home,28,2020
+32,segarra,dona,13,2020
+32,segarra,home,33,2020
+33,segria,dona,135,2020
+33,segria,home,241,2020
+34,selva,dona,72,2020
+34,selva,home,176,2020
+35,solsones,dona,6,2020
+35,solsones,home,11,2020
+36,tarragones,dona,143,2020
+36,tarragones,home,281,2020
+37,terra alta,home,7,2020
+37,terra alta,dona,2,2020
+38,urgell,home,32,2020
+38,urgell,dona,19,2020
+40,valles occidental,home,871,2020
+40,valles occidental,dona,526,2020
+41,valles oriental,dona,170,2020
+41,valles oriental,home,375,2020
+42,moianes,dona,2,2020
+42,moianes,home,4,2020
+01,alt camp,dona,71,2019
+01,alt camp,home,115,2019
+02,alt emporda,dona,254,2019
+02,alt emporda,home,438,2019
+03,alt penedes,dona,169,2019
+03,alt penedes,home,273,2019
+04,alt urgell,dona,14,2019
+04,alt urgell,home,44,2019
+05,alta ribagorca,dona,6,2019
+05,alta ribagorca,home,13,2019
+06,anoia,home,273,2019
+06,anoia,dona,122,2019
+07,bages,dona,129,2019
+07,bages,home,295,2019
+08,baix camp,dona,354,2019
+08,baix camp,home,670,2019
+09,baix ebre,dona,119,2019
+09,baix ebre,home,256,2019
+10,baix emporda,dona,151,2019
+10,baix emporda,home,291,2019
+11,baix llobregat,home,2233,2019
+11,baix llobregat,dona,1183,2019
+12,baix penedes,dona,251,2019
+12,baix penedes,home,402,2019
+13,barcelones,dona,2301,2019
+13,barcelones,home,4073,2019
+14,bergueda,dona,16,2019
+14,bergueda,home,65,2019
+15,cerdanya,dona,30,2019
+15,cerdanya,home,57,2019
+16,conca de barbera,home,28,2019
+16,conca de barbera,dona,9,2019
+17,garraf,dona,302,2019
+17,garraf,home,520,2019
+18,garrigues,dona,14,2019
+18,garrigues,home,30,2019
+19,garrotxa,dona,62,2019
+19,garrotxa,home,118,2019
+20,girones,home,472,2019
+20,girones,dona,259,2019
+21,maresme,home,983,2019
+21,maresme,dona,438,2019
+22,montsia,dona,89,2019
+22,montsia,home,180,2019
+23,noguera,dona,44,2019
+23,noguera,home,93,2019
+24,osona,dona,134,2019
+24,osona,home,306,2019
+25,pallars jussa,dona,14,2019
+25,pallars jussa,home,19,2019
+26,pallars sobira,dona,3,2019
+26,pallars sobira,home,10,2019
+27,pla d'urgell,dona,40,2019
+27,pla d'urgell,home,79,2019
+28,pla de l'estany,dona,20,2019
+28,pla de l'estany,home,44,2019
+29,priorat,home,23,2019
+29,priorat,dona,4,2019
+30,ribera d'ebre,dona,22,2019
+30,ribera d'ebre,home,58,2019
+31,ripolles,dona,22,2019
+31,ripolles,home,55,2019
+32,segarra,dona,28,2019
+32,segarra,home,71,2019
+33,segria,dona,334,2019
+33,segria,home,617,2019
+34,selva,dona,242,2019
+34,selva,home,565,2019
+35,solsones,dona,8,2019
+35,solsones,home,23,2019
+36,tarragones,dona,398,2019
+36,tarragones,home,777,2019
+37,terra alta,home,7,2019
+37,terra alta,dona,5,2019
+38,urgell,home,96,2019
+38,urgell,dona,49,2019
+40,valles occidental,dona,1192,2019
+40,valles occidental,home,2096,2019
+41,valles oriental,home,889,2019
+41,valles oriental,dona,454,2019
+42,moianes,home,13,2019
+42,moianes,dona,8,2019
+01,alt camp,dona,45,2018
+01,alt camp,home,61,2018
+02,alt emporda,dona,125,2018
+02,alt emporda,home,161,2018
+03,alt penedes,dona,66,2018
+03,alt penedes,home,119,2018
+04,alt urgell,dona,3,2018
+04,alt urgell,home,20,2018
+05,alta ribagorca,dona,1,2018
+05,alta ribagorca,home,7,2018
+06,anoia,home,151,2018
+06,anoia,dona,83,2018
+07,bages,dona,92,2018
+07,bages,home,177,2018
+08,baix camp,dona,205,2018
+08,baix camp,home,395,2018
+09,baix ebre,dona,66,2018
+09,baix ebre,home,148,2018
+10,baix emporda,dona,97,2018
+10,baix emporda,home,142,2018
+11,baix llobregat,home,1199,2018
+11,baix llobregat,dona,686,2018
+12,baix penedes,dona,103,2018
+12,baix penedes,home,165,2018
+13,barcelones,dona,1652,2018
+13,barcelones,home,2748,2018
+14,bergueda,dona,7,2018
+14,bergueda,home,38,2018
+15,cerdanya,dona,28,2018
+15,cerdanya,home,43,2018
+16,conca de barbera,home,11,2018
+16,conca de barbera,dona,6,2018
+17,garraf,dona,148,2018
+17,garraf,home,230,2018
+18,garrigues,dona,14,2018
+18,garrigues,home,33,2018
+19,garrotxa,dona,46,2018
+19,garrotxa,home,59,2018
+20,girones,home,170,2018
+20,girones,dona,79,2018
+21,maresme,home,616,2018
+21,maresme,dona,340,2018
+22,montsia,dona,62,2018
+22,montsia,home,98,2018
+23,noguera,dona,44,2018
+23,noguera,home,73,2018
+24,osona,dona,88,2018
+24,osona,home,192,2018
+25,pallars jussa,dona,7,2018
+25,pallars jussa,home,14,2018
+26,pallars sobira,dona,1,2018
+26,pallars sobira,home,5,2018
+27,pla d'urgell,dona,24,2018
+27,pla d'urgell,home,49,2018
+28,pla de l'estany,dona,11,2018
+28,pla de l'estany,home,25,2018
+29,priorat,home,7,2018
+29,priorat,dona,3,2018
+30,ribera d'ebre,dona,15,2018
+30,ribera d'ebre,home,46,2018
+31,ripolles,dona,11,2018
+31,ripolles,home,23,2018
+32,segarra,dona,24,2018
+32,segarra,home,53,2018
+33,segria,dona,212,2018
+33,segria,home,332,2018
+34,selva,dona,125,2018
+34,selva,home,263,2018
+35,solsones,dona,7,2018
+35,solsones,home,6,2018
+36,tarragones,dona,251,2018
+36,tarragones,home,489,2018
+37,terra alta,home,9,2018
+37,terra alta,dona,4,2018
+38,urgell,home,63,2018
+38,urgell,dona,32,2018
+40,valles occidental,dona,726,2018
+40,valles occidental,home,1187,2018
+41,valles oriental,home,499,2018
+41,valles oriental,dona,254,2018
+42,moianes,home,9,2018
+42,moianes,dona,2,2018

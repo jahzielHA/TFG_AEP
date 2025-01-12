@@ -1,0 +1,1291 @@
+﻿any;comarca o Aran;sexe;concepte;estat;valor
+1975;Alt Camp;homes;població;;15242
+1975;Alt Camp;dones;població;;15869
+1975;Alt Camp;total;població;;31111
+1975;Alt Empordà;homes;població;;38608
+1975;Alt Empordà;dones;població;;38993
+1975;Alt Empordà;total;població;;77601
+1975;Alt Penedès;homes;població;;30124
+1975;Alt Penedès;dones;població;;30363
+1975;Alt Penedès;total;població;;60487
+1975;Alt Urgell;homes;població;;9650
+1975;Alt Urgell;dones;població;;9108
+1975;Alt Urgell;total;població;;18758
+1975;Alta Ribagorça;homes;població;;2386
+1975;Alta Ribagorça;dones;població;;2119
+1975;Alta Ribagorça;total;població;;4505
+1975;Anoia;homes;població;;36034
+1975;Anoia;dones;població;;36804
+1975;Anoia;total;població;;72838
+1975;Aran;homes;població;;2770
+1975;Aran;dones;població;;2513
+1975;Aran;total;població;;5283
+1975;Bages;homes;població;;72228
+1975;Bages;dones;població;;76212
+1975;Bages;total;població;;148440
+1975;Baix Camp;homes;població;;53280
+1975;Baix Camp;dones;població;;53906
+1975;Baix Camp;total;població;;107186
+1975;Baix Ebre;homes;població;;32319
+1975;Baix Ebre;dones;població;;33447
+1975;Baix Ebre;total;població;;65766
+1975;Baix Empordà;homes;població;;38048
+1975;Baix Empordà;dones;població;;38714
+1975;Baix Empordà;total;població;;76762
+1975;Baix Llobregat;homes;població;;256649
+1975;Baix Llobregat;dones;població;;255275
+1975;Baix Llobregat;total;població;;511924
+1975;Baix Penedès;homes;població;;13674
+1975;Baix Penedès;dones;població;;13496
+1975;Baix Penedès;total;població;;27170
+1975;Barcelonès;homes;població;;1154675
+1975;Barcelonès;dones;població;;1257938
+1975;Barcelonès;total;població;;2412613
+1975;Berguedà;homes;població;;21094
+1975;Berguedà;dones;població;;21870
+1975;Berguedà;total;població;;42964
+1975;Cerdanya;homes;població;;6377
+1975;Cerdanya;dones;població;;6094
+1975;Cerdanya;total;població;;12471
+1975;Conca de Barberà;homes;població;;9263
+1975;Conca de Barberà;dones;població;;9456
+1975;Conca de Barberà;total;població;;18719
+1975;Garraf;homes;població;;31237
+1975;Garraf;dones;població;;31708
+1975;Garraf;total;població;;62945
+1975;Garrigues;homes;població;;10484
+1975;Garrigues;dones;població;;10324
+1975;Garrigues;total;població;;20808
+1975;Garrotxa;homes;població;;21667
+1975;Garrotxa;dones;població;;22823
+1975;Garrotxa;total;població;;44490
+1975;Gironès;homes;població;;52163
+1975;Gironès;dones;població;;54931
+1975;Gironès;total;població;;107094
+1975;Maresme;homes;població;;112998
+1975;Maresme;dones;població;;118192
+1975;Maresme;total;població;;231190
+1975;Moianès;homes;població;..;null
+1975;Moianès;dones;població;..;null
+1975;Moianès;total;població;..;null
+1975;Montsià;homes;població;;23987
+1975;Montsià;dones;població;;24414
+1975;Montsià;total;població;;48401
+1975;Noguera;homes;població;;18351
+1975;Noguera;dones;població;;17907
+1975;Noguera;total;població;;36258
+1975;Osona;homes;població;;52567
+1975;Osona;dones;població;;55301
+1975;Osona;total;població;;107868
+1975;Pallars Jussà;homes;població;;7521
+1975;Pallars Jussà;dones;població;;7386
+1975;Pallars Jussà;total;població;;14907
+1975;Pallars Sobirà;homes;població;;3063
+1975;Pallars Sobirà;dones;població;;2699
+1975;Pallars Sobirà;total;població;;5762
+1975;Pla d'Urgell;homes;població;;14351
+1975;Pla d'Urgell;dones;població;;14222
+1975;Pla d'Urgell;total;població;;28573
+1975;Pla de l'Estany;homes;població;;9705
+1975;Pla de l'Estany;dones;població;;9803
+1975;Pla de l'Estany;total;població;;19508
+1975;Priorat;homes;població;;5483
+1975;Priorat;dones;població;;5586
+1975;Priorat;total;població;;11069
+1975;Ribera d'Ebre;homes;població;;12051
+1975;Ribera d'Ebre;dones;població;;12308
+1975;Ribera d'Ebre;total;població;;24359
+1975;Ripollès;homes;població;;14496
+1975;Ripollès;dones;població;;15216
+1975;Ripollès;total;població;;29712
+1975;Segarra;homes;població;;8633
+1975;Segarra;dones;població;;8923
+1975;Segarra;total;població;;17556
+1975;Segrià;homes;població;;75056
+1975;Segrià;dones;població;;76404
+1975;Segrià;total;població;;151460
+1975;Selva;homes;població;;37900
+1975;Selva;dones;població;;38309
+1975;Selva;total;població;;76209
+1975;Solsonès;homes;població;;5931
+1975;Solsonès;dones;població;;5724
+1975;Solsonès;total;població;;11655
+1975;Tarragonès;homes;població;;65299
+1975;Tarragonès;dones;població;;67217
+1975;Tarragonès;total;població;;132516
+1975;Terra Alta;homes;població;;7044
+1975;Terra Alta;dones;població;;6985
+1975;Terra Alta;total;població;;14029
+1975;Urgell;homes;població;;14567
+1975;Urgell;dones;població;;14997
+1975;Urgell;total;població;;29564
+1975;Vallès Occidental;homes;població;;269341
+1975;Vallès Occidental;dones;població;;276080
+1975;Vallès Occidental;total;població;;545421
+1975;Vallès Oriental;homes;població;;95879
+1975;Vallès Oriental;dones;població;;96745
+1975;Vallès Oriental;total;població;;192624
+1975;Catalunya;homes;població;;2763030
+1975;Catalunya;dones;població;;2897183
+1975;Catalunya;total;població;;5660213
+1981;Alt Camp;homes;població;;16230
+1981;Alt Camp;dones;població;;16558
+1981;Alt Camp;total;població;;32788
+1981;Alt Empordà;homes;població;;40402
+1981;Alt Empordà;dones;població;;40388
+1981;Alt Empordà;total;població;;80790
+1981;Alt Penedès;homes;població;;32258
+1981;Alt Penedès;dones;població;;32636
+1981;Alt Penedès;total;població;;64894
+1981;Alt Urgell;homes;població;;9850
+1981;Alt Urgell;dones;població;;9485
+1981;Alt Urgell;total;població;;19335
+1981;Alta Ribagorça;homes;població;;2420
+1981;Alta Ribagorça;dones;població;;2129
+1981;Alta Ribagorça;total;població;;4549
+1981;Anoia;homes;població;;38727
+1981;Anoia;dones;població;;39474
+1981;Anoia;total;població;;78201
+1981;Aran;homes;població;;2991
+1981;Aran;dones;població;;2817
+1981;Aran;total;població;;5808
+1981;Bages;homes;població;;73522
+1981;Bages;dones;població;;77135
+1981;Bages;total;població;;150657
+1981;Baix Camp;homes;població;;58638
+1981;Baix Camp;dones;població;;59551
+1981;Baix Camp;total;població;;118189
+1981;Baix Ebre;homes;població;;30746
+1981;Baix Ebre;dones;població;;31808
+1981;Baix Ebre;total;població;;62554
+1981;Baix Empordà;homes;població;;40676
+1981;Baix Empordà;dones;població;;41314
+1981;Baix Empordà;total;població;;81990
+1981;Baix Llobregat;homes;població;;288312
+1981;Baix Llobregat;dones;població;;285149
+1981;Baix Llobregat;total;població;;573461
+1981;Baix Penedès;homes;població;;14921
+1981;Baix Penedès;dones;població;;14801
+1981;Baix Penedès;total;població;;29722
+1981;Barcelonès;homes;població;;1182168
+1981;Barcelonès;dones;població;;1272323
+1981;Barcelonès;total;població;;2454491
+1981;Berguedà;homes;població;;20459
+1981;Berguedà;dones;població;;21171
+1981;Berguedà;total;població;;41630
+1981;Cerdanya;homes;població;;6090
+1981;Cerdanya;dones;població;;5951
+1981;Cerdanya;total;població;;12041
+1981;Conca de Barberà;homes;població;;9006
+1981;Conca de Barberà;dones;població;;9262
+1981;Conca de Barberà;total;població;;18268
+1981;Garraf;homes;població;;34308
+1981;Garraf;dones;població;;34776
+1981;Garraf;total;població;;69084
+1981;Garrigues;homes;població;;10260
+1981;Garrigues;dones;població;;10209
+1981;Garrigues;total;població;;20469
+1981;Garrotxa;homes;població;;22043
+1981;Garrotxa;dones;població;;23202
+1981;Garrotxa;total;població;;45245
+1981;Gironès;homes;població;;56672
+1981;Gironès;dones;població;;59160
+1981;Gironès;total;població;;115832
+1981;Maresme;homes;població;;124814
+1981;Maresme;dones;població;;128713
+1981;Maresme;total;població;;253527
+1981;Moianès;homes;població;..;null
+1981;Moianès;dones;població;..;null
+1981;Moianès;total;població;..;null
+1981;Montsià;homes;població;;26317
+1981;Montsià;dones;població;;26654
+1981;Montsià;total;població;;52971
+1981;Noguera;homes;població;;18261
+1981;Noguera;dones;població;;17790
+1981;Noguera;total;població;;36051
+1981;Osona;homes;població;;56311
+1981;Osona;dones;població;;58689
+1981;Osona;total;població;;115000
+1981;Pallars Jussà;homes;població;;7155
+1981;Pallars Jussà;dones;població;;7064
+1981;Pallars Jussà;total;població;;14219
+1981;Pallars Sobirà;homes;població;;2857
+1981;Pallars Sobirà;dones;població;;2593
+1981;Pallars Sobirà;total;població;;5450
+1981;Pla d'Urgell;homes;població;;14360
+1981;Pla d'Urgell;dones;població;;14446
+1981;Pla d'Urgell;total;població;;28806
+1981;Pla de l'Estany;homes;població;;10291
+1981;Pla de l'Estany;dones;població;;10514
+1981;Pla de l'Estany;total;població;;20805
+1981;Priorat;homes;població;;5153
+1981;Priorat;dones;població;;5278
+1981;Priorat;total;població;;10431
+1981;Ribera d'Ebre;homes;població;;12402
+1981;Ribera d'Ebre;dones;població;;12582
+1981;Ribera d'Ebre;total;població;;24984
+1981;Ripollès;homes;població;;14469
+1981;Ripollès;dones;població;;15151
+1981;Ripollès;total;població;;29620
+1981;Segarra;homes;població;;8607
+1981;Segarra;dones;població;;8773
+1981;Segarra;total;població;;17380
+1981;Segrià;homes;població;;77949
+1981;Segrià;dones;població;;79251
+1981;Segrià;total;població;;157200
+1981;Selva;homes;població;;41223
+1981;Selva;dones;població;;41383
+1981;Selva;total;població;;82606
+1981;Solsonès;homes;població;;5565
+1981;Solsonès;dones;població;;5346
+1981;Solsonès;total;població;;10911
+1981;Tarragonès;homes;població;;74016
+1981;Tarragonès;dones;població;;75395
+1981;Tarragonès;total;població;;149411
+1981;Terra Alta;homes;població;;6898
+1981;Terra Alta;dones;població;;6834
+1981;Terra Alta;total;població;;13732
+1981;Urgell;homes;població;;14781
+1981;Urgell;dones;població;;15112
+1981;Urgell;total;població;;29893
+1981;Vallès Occidental;homes;població;;295719
+1981;Vallès Occidental;dones;població;;302605
+1981;Vallès Occidental;total;població;;598324
+1981;Vallès Oriental;homes;població;;112255
+1981;Vallès Oriental;dones;població;;112840
+1981;Vallès Oriental;total;població;;225095
+1981;Catalunya;homes;població;;2920102
+1981;Catalunya;dones;població;;3036312
+1981;Catalunya;total;població;;5956414
+1986;Alt Camp;homes;població;;16771
+1986;Alt Camp;dones;població;;17033
+1986;Alt Camp;total;població;;33804
+1986;Alt Empordà;homes;població;;42738
+1986;Alt Empordà;dones;població;;42660
+1986;Alt Empordà;total;població;;85398
+1986;Alt Penedès;homes;població;;33314
+1986;Alt Penedès;dones;població;;33691
+1986;Alt Penedès;total;població;;67005
+1986;Alt Urgell;homes;població;;9675
+1986;Alt Urgell;dones;població;;9190
+1986;Alt Urgell;total;població;;18865
+1986;Alta Ribagorça;homes;població;;1877
+1986;Alta Ribagorça;dones;població;;1749
+1986;Alta Ribagorça;total;població;;3626
+1986;Anoia;homes;població;;39414
+1986;Anoia;dones;població;;40180
+1986;Anoia;total;població;;79594
+1986;Aran;homes;població;;3112
+1986;Aran;dones;població;;2922
+1986;Aran;total;població;;6034
+1986;Bages;homes;població;;73311
+1986;Bages;dones;població;;77110
+1986;Bages;total;població;;150421
+1986;Baix Camp;homes;població;;61108
+1986;Baix Camp;dones;població;;62637
+1986;Baix Camp;total;població;;123745
+1986;Baix Ebre;homes;població;;31861
+1986;Baix Ebre;dones;població;;32591
+1986;Baix Ebre;total;població;;64452
+1986;Baix Empordà;homes;població;;41596
+1986;Baix Empordà;dones;població;;42315
+1986;Baix Empordà;total;població;;83911
+1986;Baix Llobregat;homes;població;;291437
+1986;Baix Llobregat;dones;població;;291917
+1986;Baix Llobregat;total;població;;583354
+1986;Baix Penedès;homes;població;;16655
+1986;Baix Penedès;dones;població;;16556
+1986;Baix Penedès;total;població;;33211
+1986;Barcelonès;homes;població;;1142207
+1986;Barcelonès;dones;població;;1234393
+1986;Barcelonès;total;població;;2376600
+1986;Berguedà;homes;població;;20055
+1986;Berguedà;dones;població;;20622
+1986;Berguedà;total;població;;40677
+1986;Cerdanya;homes;població;;6204
+1986;Cerdanya;dones;població;;5996
+1986;Cerdanya;total;població;;12200
+1986;Conca de Barberà;homes;població;;9078
+1986;Conca de Barberà;dones;població;;9326
+1986;Conca de Barberà;total;població;;18404
+1986;Garraf;homes;població;;35548
+1986;Garraf;dones;població;;36268
+1986;Garraf;total;població;;71816
+1986;Garrigues;homes;població;;10120
+1986;Garrigues;dones;població;;10094
+1986;Garrigues;total;població;;20214
+1986;Garrotxa;homes;població;;22161
+1986;Garrotxa;dones;població;;23207
+1986;Garrotxa;total;població;;45368
+1986;Gironès;homes;població;;59933
+1986;Gironès;dones;població;;62417
+1986;Gironès;total;població;;122350
+1986;Maresme;homes;població;;132488
+1986;Maresme;dones;població;;137014
+1986;Maresme;total;població;;269502
+1986;Moianès;homes;població;..;null
+1986;Moianès;dones;població;..;null
+1986;Moianès;total;població;..;null
+1986;Montsià;homes;població;;26789
+1986;Montsià;dones;població;;27238
+1986;Montsià;total;població;;54027
+1986;Noguera;homes;població;;18057
+1986;Noguera;dones;població;;17790
+1986;Noguera;total;població;;35847
+1986;Osona;homes;població;;56401
+1986;Osona;dones;població;;58857
+1986;Osona;total;població;;115258
+1986;Pallars Jussà;homes;població;;6911
+1986;Pallars Jussà;dones;població;;6906
+1986;Pallars Jussà;total;població;;13817
+1986;Pallars Sobirà;homes;població;;2860
+1986;Pallars Sobirà;dones;població;;2604
+1986;Pallars Sobirà;total;població;;5464
+1986;Pla d'Urgell;homes;població;;14286
+1986;Pla d'Urgell;dones;població;;14389
+1986;Pla d'Urgell;total;població;;28675
+1986;Pla de l'Estany;homes;població;;10580
+1986;Pla de l'Estany;dones;població;;10836
+1986;Pla de l'Estany;total;població;;21416
+1986;Priorat;homes;població;;4976
+1986;Priorat;dones;població;;5075
+1986;Priorat;total;població;;10051
+1986;Ribera d'Ebre;homes;població;;11811
+1986;Ribera d'Ebre;dones;població;;11839
+1986;Ribera d'Ebre;total;població;;23650
+1986;Ripollès;homes;població;;13907
+1986;Ripollès;dones;població;;14407
+1986;Ripollès;total;població;;28314
+1986;Segarra;homes;població;;8491
+1986;Segarra;dones;població;;8613
+1986;Segarra;total;població;;17104
+1986;Segrià;homes;població;;78625
+1986;Segrià;dones;població;;80052
+1986;Segrià;total;població;;158677
+1986;Selva;homes;població;;45690
+1986;Selva;dones;població;;45548
+1986;Selva;total;població;;91238
+1986;Solsonès;homes;població;;5530
+1986;Solsonès;dones;població;;5266
+1986;Solsonès;total;població;;10796
+1986;Tarragonès;homes;població;;73729
+1986;Tarragonès;dones;població;;75361
+1986;Tarragonès;total;població;;149090
+1986;Terra Alta;homes;població;;6831
+1986;Terra Alta;dones;població;;6618
+1986;Terra Alta;total;població;;13449
+1986;Urgell;homes;població;;14809
+1986;Urgell;dones;població;;15155
+1986;Urgell;total;població;;29964
+1986;Vallès Occidental;homes;població;;307304
+1986;Vallès Occidental;dones;població;;313482
+1986;Vallès Occidental;total;població;;620786
+1986;Vallès Oriental;homes;població;;119639
+1986;Vallès Oriental;dones;població;;120825
+1986;Vallès Oriental;total;població;;240464
+1986;Catalunya;homes;població;;2927889
+1986;Catalunya;dones;població;;3050749
+1986;Catalunya;total;població;;5978638
+1991;Alt Camp;homes;població;;16894
+1991;Alt Camp;dones;població;;17122
+1991;Alt Camp;total;població;;34016
+1991;Alt Empordà;homes;població;;45233
+1991;Alt Empordà;dones;població;;45522
+1991;Alt Empordà;total;població;;90755
+1991;Alt Penedès;homes;població;;34801
+1991;Alt Penedès;dones;població;;35062
+1991;Alt Penedès;total;població;;69863
+1991;Alt Urgell;homes;població;;9667
+1991;Alt Urgell;dones;població;;9343
+1991;Alt Urgell;total;població;;19010
+1991;Alta Ribagorça;homes;població;;1813
+1991;Alta Ribagorça;dones;població;;1701
+1991;Alta Ribagorça;total;població;;3514
+1991;Anoia;homes;població;;40767
+1991;Anoia;dones;població;;41683
+1991;Anoia;total;població;;82450
+1991;Aran;homes;població;;3127
+1991;Aran;dones;població;;3057
+1991;Aran;total;població;;6184
+1991;Bages;homes;població;;74201
+1991;Bages;dones;població;;77976
+1991;Bages;total;població;;152177
+1991;Baix Camp;homes;població;;65082
+1991;Baix Camp;dones;població;;66517
+1991;Baix Camp;total;població;;131599
+1991;Baix Ebre;homes;població;;31806
+1991;Baix Ebre;dones;població;;32839
+1991;Baix Ebre;total;població;;64645
+1991;Baix Empordà;homes;població;;45062
+1991;Baix Empordà;dones;població;;44868
+1991;Baix Empordà;total;població;;89930
+1991;Baix Llobregat;homes;població;;304367
+1991;Baix Llobregat;dones;població;;305825
+1991;Baix Llobregat;total;població;;610192
+1991;Baix Penedès;homes;població;;19068
+1991;Baix Penedès;dones;població;;19012
+1991;Baix Penedès;total;població;;38080
+1991;Barcelonès;homes;població;;1101983
+1991;Barcelonès;dones;població;;1200154
+1991;Barcelonès;total;població;;2302137
+1991;Berguedà;homes;població;;19056
+1991;Berguedà;dones;població;;19909
+1991;Berguedà;total;població;;38965
+1991;Cerdanya;homes;població;;6309
+1991;Cerdanya;dones;població;;6087
+1991;Cerdanya;total;població;;12396
+1991;Conca de Barberà;homes;població;;8912
+1991;Conca de Barberà;dones;població;;9089
+1991;Conca de Barberà;total;població;;18001
+1991;Garraf;homes;població;;37858
+1991;Garraf;dones;població;;39057
+1991;Garraf;total;població;;76915
+1991;Garrigues;homes;població;;9731
+1991;Garrigues;dones;població;;9698
+1991;Garrigues;total;població;;19429
+1991;Garrotxa;homes;població;;22444
+1991;Garrotxa;dones;població;;23616
+1991;Garrotxa;total;població;;46060
+1991;Gironès;homes;població;;61599
+1991;Gironès;dones;població;;64276
+1991;Gironès;total;població;;125875
+1991;Maresme;homes;població;;143811
+1991;Maresme;dones;població;;149292
+1991;Maresme;total;població;;293103
+1991;Moianès;homes;població;..;null
+1991;Moianès;dones;població;..;null
+1991;Moianès;total;població;..;null
+1991;Montsià;homes;població;;27024
+1991;Montsià;dones;població;;27283
+1991;Montsià;total;població;;54307
+1991;Noguera;homes;població;;17450
+1991;Noguera;dones;població;;17332
+1991;Noguera;total;població;;34782
+1991;Osona;homes;població;;57527
+1991;Osona;dones;població;;59915
+1991;Osona;total;població;;117442
+1991;Pallars Jussà;homes;població;;6413
+1991;Pallars Jussà;dones;població;;6447
+1991;Pallars Jussà;total;població;;12860
+1991;Pallars Sobirà;homes;població;;2814
+1991;Pallars Sobirà;dones;població;;2604
+1991;Pallars Sobirà;total;població;;5418
+1991;Pla d'Urgell;homes;població;;14279
+1991;Pla d'Urgell;dones;població;;14523
+1991;Pla d'Urgell;total;població;;28802
+1991;Pla de l'Estany;homes;població;;10438
+1991;Pla de l'Estany;dones;població;;10634
+1991;Pla de l'Estany;total;població;;21072
+1991;Priorat;homes;població;;4706
+1991;Priorat;dones;població;;4769
+1991;Priorat;total;població;;9475
+1991;Ribera d'Ebre;homes;població;;11495
+1991;Ribera d'Ebre;dones;població;;11560
+1991;Ribera d'Ebre;total;població;;23055
+1991;Ripollès;homes;població;;13408
+1991;Ripollès;dones;població;;13759
+1991;Ripollès;total;població;;27167
+1991;Segarra;homes;població;;8482
+1991;Segarra;dones;població;;8558
+1991;Segarra;total;població;;17040
+1991;Segrià;homes;població;;80402
+1991;Segrià;dones;població;;82502
+1991;Segrià;total;població;;162904
+1991;Selva;homes;població;;49515
+1991;Selva;dones;població;;48740
+1991;Selva;total;població;;98255
+1991;Solsonès;homes;població;;5504
+1991;Solsonès;dones;població;;5288
+1991;Solsonès;total;població;;10792
+1991;Tarragonès;homes;població;;77034
+1991;Tarragonès;dones;població;;78847
+1991;Tarragonès;total;població;;155881
+1991;Terra Alta;homes;població;;6575
+1991;Terra Alta;dones;població;;6370
+1991;Terra Alta;total;població;;12945
+1991;Urgell;homes;població;;14749
+1991;Urgell;dones;població;;15040
+1991;Urgell;total;població;;29789
+1991;Vallès Occidental;homes;població;;320657
+1991;Vallès Occidental;dones;població;;329042
+1991;Vallès Occidental;total;població;;649699
+1991;Vallès Oriental;homes;població;;130879
+1991;Vallès Oriental;dones;població;;131634
+1991;Vallès Oriental;total;població;;262513
+1991;Catalunya;homes;població;;2962942
+1991;Catalunya;dones;població;;3096552
+1991;Catalunya;total;població;;6059494
+1996;Alt Camp;homes;població;;17123
+1996;Alt Camp;dones;població;;17280
+1996;Alt Camp;total;població;;34403
+1996;Alt Empordà;homes;població;;46345
+1996;Alt Empordà;dones;població;;46827
+1996;Alt Empordà;total;població;;93172
+1996;Alt Penedès;homes;població;;36467
+1996;Alt Penedès;dones;població;;36729
+1996;Alt Penedès;total;població;;73196
+1996;Alt Urgell;homes;població;;9580
+1996;Alt Urgell;dones;població;;9426
+1996;Alt Urgell;total;població;;19006
+1996;Alta Ribagorça;homes;població;;1850
+1996;Alta Ribagorça;dones;població;;1692
+1996;Alta Ribagorça;total;població;;3542
+1996;Anoia;homes;població;;43063
+1996;Anoia;dones;població;;43901
+1996;Anoia;total;població;;86964
+1996;Aran;homes;població;;3645
+1996;Aran;dones;població;;3485
+1996;Aran;total;població;;7130
+1996;Bages;homes;població;;74418
+1996;Bages;dones;població;;78168
+1996;Bages;total;població;;152586
+1996;Baix Camp;homes;població;;69417
+1996;Baix Camp;dones;població;;71123
+1996;Baix Camp;total;població;;140540
+1996;Baix Ebre;homes;població;;32437
+1996;Baix Ebre;dones;població;;33442
+1996;Baix Ebre;total;població;;65879
+1996;Baix Empordà;homes;població;;47790
+1996;Baix Empordà;dones;població;;48196
+1996;Baix Empordà;total;població;;95986
+1996;Baix Llobregat;homes;població;;320433
+1996;Baix Llobregat;dones;població;;322986
+1996;Baix Llobregat;total;població;;643419
+1996;Baix Penedès;homes;població;;23997
+1996;Baix Penedès;dones;població;;23553
+1996;Baix Penedès;total;població;;47550
+1996;Barcelonès;homes;població;;1011858
+1996;Barcelonès;dones;població;;1119520
+1996;Barcelonès;total;població;;2131378
+1996;Berguedà;homes;població;;18963
+1996;Berguedà;dones;població;;19643
+1996;Berguedà;total;població;;38606
+1996;Cerdanya;homes;població;;6483
+1996;Cerdanya;dones;població;;6274
+1996;Cerdanya;total;població;;12757
+1996;Conca de Barberà;homes;població;;9112
+1996;Conca de Barberà;dones;població;;9173
+1996;Conca de Barberà;total;població;;18285
+1996;Garraf;homes;població;;44650
+1996;Garraf;dones;població;;45785
+1996;Garraf;total;població;;90435
+1996;Garrigues;homes;població;;9749
+1996;Garrigues;dones;població;;9524
+1996;Garrigues;total;població;;19273
+1996;Garrotxa;homes;població;;22753
+1996;Garrotxa;dones;població;;23955
+1996;Garrotxa;total;població;;46708
+1996;Gironès;homes;població;;62924
+1996;Gironès;dones;població;;66120
+1996;Gironès;total;població;;129044
+1996;Maresme;homes;població;;156893
+1996;Maresme;dones;població;;161998
+1996;Maresme;total;població;;318891
+1996;Moianès;homes;població;..;null
+1996;Moianès;dones;població;..;null
+1996;Moianès;total;població;..;null
+1996;Montsià;homes;població;;27163
+1996;Montsià;dones;població;;27602
+1996;Montsià;total;població;;54765
+1996;Noguera;homes;població;;17219
+1996;Noguera;dones;població;;17171
+1996;Noguera;total;població;;34390
+1996;Osona;homes;població;;60358
+1996;Osona;dones;població;;62565
+1996;Osona;total;població;;122923
+1996;Pallars Jussà;homes;població;;6396
+1996;Pallars Jussà;dones;població;;6421
+1996;Pallars Jussà;total;població;;12817
+1996;Pallars Sobirà;homes;població;;2984
+1996;Pallars Sobirà;dones;població;;2831
+1996;Pallars Sobirà;total;població;;5815
+1996;Pla d'Urgell;homes;població;;14448
+1996;Pla d'Urgell;dones;població;;14668
+1996;Pla d'Urgell;total;població;;29116
+1996;Pla de l'Estany;homes;població;;11745
+1996;Pla de l'Estany;dones;població;;12088
+1996;Pla de l'Estany;total;població;;23833
+1996;Priorat;homes;població;;4625
+1996;Priorat;dones;població;;4587
+1996;Priorat;total;població;;9212
+1996;Ribera d'Ebre;homes;població;;11172
+1996;Ribera d'Ebre;dones;població;;11270
+1996;Ribera d'Ebre;total;població;;22442
+1996;Ripollès;homes;població;;12997
+1996;Ripollès;dones;població;;13368
+1996;Ripollès;total;població;;26365
+1996;Segarra;homes;població;;8707
+1996;Segarra;dones;població;;8700
+1996;Segarra;total;població;;17407
+1996;Segrià;homes;població;;80618
+1996;Segrià;dones;població;;83073
+1996;Segrià;total;població;;163691
+1996;Selva;homes;població;;52604
+1996;Selva;dones;població;;52229
+1996;Selva;total;població;;104833
+1996;Solsonès;homes;població;;5687
+1996;Solsonès;dones;població;;5484
+1996;Solsonès;total;població;;11171
+1996;Tarragonès;homes;població;;83503
+1996;Tarragonès;dones;població;;85513
+1996;Tarragonès;total;població;;169016
+1996;Terra Alta;homes;població;;6381
+1996;Terra Alta;dones;població;;6203
+1996;Terra Alta;total;població;;12584
+1996;Urgell;homes;població;;14953
+1996;Urgell;dones;població;;15228
+1996;Urgell;total;població;;30181
+1996;Vallès Occidental;homes;població;;338255
+1996;Vallès Occidental;dones;població;;347345
+1996;Vallès Occidental;total;població;;685600
+1996;Vallès Oriental;homes;població;;142024
+1996;Vallès Oriental;dones;població;;143105
+1996;Vallès Oriental;total;població;;285129
+1996;Catalunya;homes;població;;2971789
+1996;Catalunya;dones;població;;3118251
+1996;Catalunya;total;població;;6090040
+2001;Alt Camp;homes;població;;17904
+2001;Alt Camp;dones;població;;17731
+2001;Alt Camp;total;població;;35635
+2001;Alt Empordà;homes;població;;49394
+2001;Alt Empordà;dones;població;;49927
+2001;Alt Empordà;total;població;;99321
+2001;Alt Penedès;homes;població;;40466
+2001;Alt Penedès;dones;població;;40510
+2001;Alt Penedès;total;població;;80976
+2001;Alt Urgell;homes;població;;9596
+2001;Alt Urgell;dones;població;;9509
+2001;Alt Urgell;total;població;;19105
+2001;Alta Ribagorça;homes;població;;1772
+2001;Alta Ribagorça;dones;població;;1705
+2001;Alta Ribagorça;total;població;;3477
+2001;Anoia;homes;població;;46697
+2001;Anoia;dones;població;;46832
+2001;Anoia;total;població;;93529
+2001;Aran;homes;població;;3939
+2001;Aran;dones;població;;3752
+2001;Aran;total;població;;7691
+2001;Bages;homes;població;;76123
+2001;Bages;dones;població;;78989
+2001;Bages;total;població;;155112
+2001;Baix Camp;homes;població;;71968
+2001;Baix Camp;dones;població;;73707
+2001;Baix Camp;total;població;;145675
+2001;Baix Ebre;homes;població;;32965
+2001;Baix Ebre;dones;població;;33404
+2001;Baix Ebre;total;població;;66369
+2001;Baix Empordà;homes;població;;51264
+2001;Baix Empordà;dones;població;;51302
+2001;Baix Empordà;total;població;;102566
+2001;Baix Llobregat;homes;població;;345122
+2001;Baix Llobregat;dones;població;;347770
+2001;Baix Llobregat;total;població;;692892
+2001;Baix Penedès;homes;població;;30978
+2001;Baix Penedès;dones;població;;30278
+2001;Baix Penedès;total;població;;61256
+2001;Barcelonès;homes;població;;996031
+2001;Barcelonès;dones;població;;1097639
+2001;Barcelonès;total;població;;2093670
+2001;Berguedà;homes;població;;18649
+2001;Berguedà;dones;població;;19346
+2001;Berguedà;total;població;;37995
+2001;Cerdanya;homes;població;;7302
+2001;Cerdanya;dones;població;;6856
+2001;Cerdanya;total;població;;14158
+2001;Conca de Barberà;homes;població;;9467
+2001;Conca de Barberà;dones;població;;9299
+2001;Conca de Barberà;total;població;;18766
+2001;Garraf;homes;població;;53648
+2001;Garraf;dones;població;;54546
+2001;Garraf;total;població;;108194
+2001;Garrigues;homes;població;;9630
+2001;Garrigues;dones;població;;9369
+2001;Garrigues;total;població;;18999
+2001;Garrotxa;homes;població;;23469
+2001;Garrotxa;dones;població;;24278
+2001;Garrotxa;total;població;;47747
+2001;Gironès;homes;població;;66724
+2001;Gironès;dones;població;;69819
+2001;Gironès;total;població;;136543
+2001;Maresme;homes;població;;176350
+2001;Maresme;dones;població;;180195
+2001;Maresme;total;població;;356545
+2001;Moianès;homes;població;..;null
+2001;Moianès;dones;població;..;null
+2001;Moianès;total;població;..;null
+2001;Montsià;homes;població;;28907
+2001;Montsià;dones;població;;28643
+2001;Montsià;total;població;;57550
+2001;Noguera;homes;població;;17442
+2001;Noguera;dones;població;;17302
+2001;Noguera;total;població;;34744
+2001;Osona;homes;població;;64228
+2001;Osona;dones;població;;65315
+2001;Osona;total;població;;129543
+2001;Pallars Jussà;homes;població;;6016
+2001;Pallars Jussà;dones;població;;6041
+2001;Pallars Jussà;total;població;;12057
+2001;Pallars Sobirà;homes;població;;3162
+2001;Pallars Sobirà;dones;població;;3012
+2001;Pallars Sobirà;total;població;;6174
+2001;Pla d'Urgell;homes;població;;14823
+2001;Pla d'Urgell;dones;població;;14900
+2001;Pla d'Urgell;total;població;;29723
+2001;Pla de l'Estany;homes;població;;12060
+2001;Pla de l'Estany;dones;població;;12287
+2001;Pla de l'Estany;total;població;;24347
+2001;Priorat;homes;població;;4692
+2001;Priorat;dones;població;;4504
+2001;Priorat;total;població;;9196
+2001;Ribera d'Ebre;homes;població;;10821
+2001;Ribera d'Ebre;dones;població;;10835
+2001;Ribera d'Ebre;total;població;;21656
+2001;Ripollès;homes;població;;12747
+2001;Ripollès;dones;població;;12997
+2001;Ripollès;total;població;;25744
+2001;Segarra;homes;població;;9370
+2001;Segarra;dones;població;;9127
+2001;Segarra;total;població;;18497
+2001;Segrià;homes;població;;81736
+2001;Segrià;dones;població;;84354
+2001;Segrià;total;població;;166090
+2001;Selva;homes;població;;59211
+2001;Selva;dones;població;;58182
+2001;Selva;total;població;;117393
+2001;Solsonès;homes;població;;5839
+2001;Solsonès;dones;població;;5627
+2001;Solsonès;total;població;;11466
+2001;Tarragonès;homes;població;;89788
+2001;Tarragonès;dones;població;;91586
+2001;Tarragonès;total;població;;181374
+2001;Terra Alta;homes;població;;6194
+2001;Terra Alta;dones;població;;6002
+2001;Terra Alta;total;població;;12196
+2001;Urgell;homes;població;;15426
+2001;Urgell;dones;població;;15600
+2001;Urgell;total;població;;31026
+2001;Vallès Occidental;homes;població;;363782
+2001;Vallès Occidental;dones;població;;372900
+2001;Vallès Occidental;total;població;;736682
+2001;Vallès Oriental;homes;població;;160829
+2001;Vallès Oriental;dones;població;;160602
+2001;Vallès Oriental;total;població;;321431
+2001;Catalunya;homes;població;;3106531
+2001;Catalunya;dones;població;;3236579
+2001;Catalunya;total;població;;6343110
+2011;Alt Camp;homes;població;;22969
+2011;Alt Camp;dones;població;;22060
+2011;Alt Camp;total;població;;45029
+2011;Alt Empordà;homes;població;;70418
+2011;Alt Empordà;dones;població;;68621
+2011;Alt Empordà;total;població;;139039
+2011;Alt Penedès;homes;població;;53175
+2011;Alt Penedès;dones;població;;52648
+2011;Alt Penedès;total;població;;105823
+2011;Alt Urgell;homes;població;;10666
+2011;Alt Urgell;dones;població;;10526
+2011;Alt Urgell;total;població;;21192
+2011;Alta Ribagorça;homes;població;;2213
+2011;Alta Ribagorça;dones;població;;1972
+2011;Alta Ribagorça;total;població;;4185
+2011;Anoia;homes;població;;59863
+2011;Anoia;dones;població;;58783
+2011;Anoia;total;població;;118646
+2011;Aran;homes;població;;5217
+2011;Aran;dones;població;;4805
+2011;Aran;total;població;;10022
+2011;Bages;homes;població;;92325
+2011;Bages;dones;població;;93280
+2011;Bages;total;població;;185605
+2011;Baix Camp;homes;població;;95787
+2011;Baix Camp;dones;població;;96248
+2011;Baix Camp;total;població;;192035
+2011;Baix Ebre;homes;població;;41593
+2011;Baix Ebre;dones;població;;39975
+2011;Baix Ebre;total;població;;81567
+2011;Baix Empordà;homes;població;;66592
+2011;Baix Empordà;dones;població;;65771
+2011;Baix Empordà;total;població;;132363
+2011;Baix Llobregat;homes;població;;397915
+2011;Baix Llobregat;dones;població;;403810
+2011;Baix Llobregat;total;població;;801725
+2011;Baix Penedès;homes;població;;51213
+2011;Baix Penedès;dones;població;;49413
+2011;Baix Penedès;total;població;;100626
+2011;Barcelonès;homes;població;;1074510
+2011;Barcelonès;dones;població;;1166012
+2011;Barcelonès;total;població;;2240522
+2011;Berguedà;homes;població;;20604
+2011;Berguedà;dones;població;;20591
+2011;Berguedà;total;població;;41196
+2011;Cerdanya;homes;població;;9794
+2011;Cerdanya;dones;població;;8973
+2011;Cerdanya;total;població;;18767
+2011;Conca de Barberà;homes;població;;10750
+2011;Conca de Barberà;dones;població;;10277
+2011;Conca de Barberà;total;població;;21027
+2011;Garraf;homes;població;;72281
+2011;Garraf;dones;població;;72927
+2011;Garraf;total;població;;145208
+2011;Garrigues;homes;població;;10512
+2011;Garrigues;dones;població;;9591
+2011;Garrigues;total;població;;20102
+2011;Garrotxa;homes;població;;27724
+2011;Garrotxa;dones;població;;27729
+2011;Garrotxa;total;població;;55454
+2011;Gironès;homes;població;;90559
+2011;Gironès;dones;població;;91449
+2011;Gironès;total;població;;182008
+2011;Maresme;homes;població;;215696
+2011;Maresme;dones;població;;218516
+2011;Maresme;total;població;;434213
+2011;Moianès;homes;població;..;null
+2011;Moianès;dones;població;..;null
+2011;Moianès;total;població;..;null
+2011;Montsià;homes;població;;36267
+2011;Montsià;dones;població;;34999
+2011;Montsià;total;població;;71265
+2011;Noguera;homes;població;;20600
+2011;Noguera;dones;població;;19357
+2011;Noguera;total;població;;39957
+2011;Osona;homes;població;;76903
+2011;Osona;dones;població;;77199
+2011;Osona;total;població;;154103
+2011;Pallars Jussà;homes;població;;6983
+2011;Pallars Jussà;dones;població;;6764
+2011;Pallars Jussà;total;població;;13746
+2011;Pallars Sobirà;homes;població;;3855
+2011;Pallars Sobirà;dones;població;;3507
+2011;Pallars Sobirà;total;població;;7362
+2011;Pla d'Urgell;homes;població;;18988
+2011;Pla d'Urgell;dones;població;;18108
+2011;Pla d'Urgell;total;població;;37096
+2011;Pla de l'Estany;homes;població;;15651
+2011;Pla de l'Estany;dones;població;;15568
+2011;Pla de l'Estany;total;població;;31220
+2011;Priorat;homes;població;;5215
+2011;Priorat;dones;població;;4717
+2011;Priorat;total;població;;9932
+2011;Ribera d'Ebre;homes;població;;11856
+2011;Ribera d'Ebre;dones;població;;11511
+2011;Ribera d'Ebre;total;població;;23367
+2011;Ripollès;homes;població;;13109
+2011;Ripollès;dones;població;;13094
+2011;Ripollès;total;població;;26203
+2011;Segarra;homes;població;;12038
+2011;Segarra;dones;població;;11153
+2011;Segarra;total;població;;23191
+2011;Segrià;homes;població;;104261
+2011;Segrià;dones;població;;102743
+2011;Segrià;total;població;;207004
+2011;Selva;homes;població;;87450
+2011;Selva;dones;població;;83228
+2011;Selva;total;població;;170678
+2011;Solsonès;homes;població;;6948
+2011;Solsonès;dones;població;;6728
+2011;Solsonès;total;població;;13676
+2011;Tarragonès;homes;població;;125600
+2011;Tarragonès;dones;població;;124038
+2011;Tarragonès;total;població;;249638
+2011;Terra Alta;homes;població;;6554
+2011;Terra Alta;dones;població;;6004
+2011;Terra Alta;total;població;;12558
+2011;Urgell;homes;població;;18799
+2011;Urgell;dones;població;;18024
+2011;Urgell;total;població;;36823
+2011;Vallès Occidental;homes;població;;442828
+2011;Vallès Occidental;dones;població;;451942
+2011;Vallès Occidental;total;població;;894770
+2011;Vallès Oriental;homes;població;;201523
+2011;Vallès Oriental;dones;població;;199377
+2011;Vallès Oriental;total;població;;400900
+2011;Catalunya;homes;població;;3717804
+2011;Catalunya;dones;població;;3802039
+2011;Catalunya;total;població;;7519843
+2021;Alt Camp;homes;població;;22871
+2021;Alt Camp;dones;població;;22207
+2021;Alt Camp;total;població;;45078
+2021;Alt Empordà;homes;població;;72029
+2021;Alt Empordà;dones;població;;71368
+2021;Alt Empordà;total;població;;143397
+2021;Alt Penedès;homes;població;;55040
+2021;Alt Penedès;dones;població;;55158
+2021;Alt Penedès;total;població;;110198
+2021;Alt Urgell;homes;població;;10237
+2021;Alt Urgell;dones;població;;10207
+2021;Alt Urgell;total;població;;20444
+2021;Alta Ribagorça;homes;població;;2033
+2021;Alta Ribagorça;dones;població;;1927
+2021;Alta Ribagorça;total;població;;3960
+2021;Anoia;homes;població;;62550
+2021;Anoia;dones;població;;61580
+2021;Anoia;total;població;;124130
+2021;Aran;homes;població;;5298
+2021;Aran;dones;població;;5063
+2021;Aran;total;població;;10361
+2021;Bages;homes;població;;89591
+2021;Bages;dones;població;;91096
+2021;Bages;total;població;;180687
+2021;Baix Camp;homes;població;;96097
+2021;Baix Camp;dones;població;;98999
+2021;Baix Camp;total;població;;195096
+2021;Baix Ebre;homes;població;;39930
+2021;Baix Ebre;dones;població;;39037
+2021;Baix Ebre;total;població;;78967
+2021;Baix Empordà;homes;població;;68588
+2021;Baix Empordà;dones;població;;68445
+2021;Baix Empordà;total;població;;137033
+2021;Baix Llobregat;homes;població;;408926
+2021;Baix Llobregat;dones;població;;423448
+2021;Baix Llobregat;total;població;;832374
+2021;Baix Penedès;homes;població;;55336
+2021;Baix Penedès;dones;població;;54821
+2021;Baix Penedès;total;població;;110157
+2021;Barcelonès;homes;població;;1088594
+2021;Barcelonès;dones;població;;1181328
+2021;Barcelonès;total;població;;2269922
+2021;Berguedà;homes;població;;19997
+2021;Berguedà;dones;població;;19989
+2021;Berguedà;total;població;;39986
+2021;Cerdanya;homes;població;;9824
+2021;Cerdanya;dones;població;;9424
+2021;Cerdanya;total;població;;19248
+2021;Conca de Barberà;homes;població;;10334
+2021;Conca de Barberà;dones;població;;9825
+2021;Conca de Barberà;total;població;;20159
+2021;Garraf;homes;població;;76245
+2021;Garraf;dones;població;;77962
+2021;Garraf;total;població;;154207
+2021;Garrigues;homes;població;;9987
+2021;Garrigues;dones;població;;9045
+2021;Garrigues;total;població;;19032
+2021;Garrotxa;homes;població;;29729
+2021;Garrotxa;dones;població;;29285
+2021;Garrotxa;total;població;;59014
+2021;Gironès;homes;població;;97299
+2021;Gironès;dones;població;;98979
+2021;Gironès;total;població;;196278
+2021;Maresme;homes;població;;227596
+2021;Maresme;dones;població;;232591
+2021;Maresme;total;població;;460187
+2021;Moianès;homes;població;;7313
+2021;Moianès;dones;població;;6906
+2021;Moianès;total;població;;14219
+2021;Montsià;homes;població;;34590
+2021;Montsià;dones;població;;33933
+2021;Montsià;total;població;;68523
+2021;Noguera;homes;població;;20395
+2021;Noguera;dones;població;;18748
+2021;Noguera;total;població;;39143
+2021;Osona;homes;població;;82456
+2021;Osona;dones;població;;81411
+2021;Osona;total;població;;163867
+2021;Pallars Jussà;homes;població;;6690
+2021;Pallars Jussà;dones;població;;6422
+2021;Pallars Jussà;total;població;;13112
+2021;Pallars Sobirà;homes;població;;3657
+2021;Pallars Sobirà;dones;població;;3459
+2021;Pallars Sobirà;total;població;;7116
+2021;Pla d'Urgell;homes;població;;19104
+2021;Pla d'Urgell;dones;població;;18096
+2021;Pla d'Urgell;total;població;;37200
+2021;Pla de l'Estany;homes;població;;16379
+2021;Pla de l'Estany;dones;població;;16438
+2021;Pla de l'Estany;total;població;;32817
+2021;Priorat;homes;població;;4853
+2021;Priorat;dones;població;;4430
+2021;Priorat;total;població;;9283
+2021;Ribera d'Ebre;homes;població;;11136
+2021;Ribera d'Ebre;dones;població;;10763
+2021;Ribera d'Ebre;total;població;;21899
+2021;Ripollès;homes;població;;12725
+2021;Ripollès;dones;població;;12723
+2021;Ripollès;total;població;;25448
+2021;Segarra;homes;població;;12281
+2021;Segarra;dones;població;;11174
+2021;Segarra;total;població;;23455
+2021;Segrià;homes;població;;106498
+2021;Segrià;dones;població;;104205
+2021;Segrià;total;població;;210703
+2021;Selva;homes;població;;88740
+2021;Selva;dones;població;;86595
+2021;Selva;total;població;;175335
+2021;Solsonès;homes;població;;6896
+2021;Solsonès;dones;població;;6752
+2021;Solsonès;total;població;;13648
+2021;Tarragonès;homes;població;;130591
+2021;Tarragonès;dones;població;;132277
+2021;Tarragonès;total;població;;262868
+2021;Terra Alta;homes;població;;5815
+2021;Terra Alta;dones;població;;5590
+2021;Terra Alta;total;població;;11405
+2021;Urgell;homes;població;;18895
+2021;Urgell;dones;població;;18344
+2021;Urgell;total;població;;37239
+2021;Vallès Occidental;homes;població;;460590
+2021;Vallès Occidental;dones;població;;476796
+2021;Vallès Occidental;total;població;;937386
+2021;Vallès Oriental;homes;població;;207088
+2021;Vallès Oriental;dones;població;;208227
+2021;Vallès Oriental;total;població;;415315
+2021;Catalunya;homes;població;;3814823
+2021;Catalunya;dones;població;;3935073
+2021;Catalunya;total;població;;7749896
+2022;Alt Camp;homes;població;;23132
+2022;Alt Camp;dones;població;;22337
+2022;Alt Camp;total;població;;45469
+2022;Alt Empordà;homes;població;;72257
+2022;Alt Empordà;dones;població;;71693
+2022;Alt Empordà;total;població;;143950
+2022;Alt Penedès;homes;població;;55436
+2022;Alt Penedès;dones;població;;55374
+2022;Alt Penedès;total;població;;110810
+2022;Alt Urgell;homes;població;;10241
+2022;Alt Urgell;dones;població;;10217
+2022;Alt Urgell;total;població;;20458
+2022;Alta Ribagorça;homes;població;;2062
+2022;Alta Ribagorça;dones;població;;1927
+2022;Alta Ribagorça;total;població;;3989
+2022;Anoia;homes;població;;63069
+2022;Anoia;dones;població;;62004
+2022;Anoia;total;població;;125073
+2022;Aran;homes;població;;5258
+2022;Aran;dones;població;;4985
+2022;Aran;total;població;;10243
+2022;Bages;homes;població;;89484
+2022;Bages;dones;població;;90965
+2022;Bages;total;població;;180449
+2022;Baix Camp;homes;població;;97550
+2022;Baix Camp;dones;població;;100140
+2022;Baix Camp;total;població;;197690
+2022;Baix Ebre;homes;població;;40517
+2022;Baix Ebre;dones;població;;39428
+2022;Baix Ebre;total;població;;79945
+2022;Baix Empordà;homes;població;;69138
+2022;Baix Empordà;dones;població;;69057
+2022;Baix Empordà;total;població;;138195
+2022;Baix Llobregat;homes;població;;408693
+2022;Baix Llobregat;dones;població;;423386
+2022;Baix Llobregat;total;població;;832079
+2022;Baix Penedès;homes;població;;56196
+2022;Baix Penedès;dones;població;;56064
+2022;Baix Penedès;total;població;;112260
+2022;Barcelonès;homes;població;;1083146
+2022;Barcelonès;dones;població;;1175889
+2022;Barcelonès;total;població;;2259035
+2022;Berguedà;homes;població;;20158
+2022;Berguedà;dones;població;;20148
+2022;Berguedà;total;població;;40306
+2022;Cerdanya;homes;població;;9985
+2022;Cerdanya;dones;població;;9484
+2022;Cerdanya;total;població;;19469
+2022;Conca de Barberà;homes;població;;10363
+2022;Conca de Barberà;dones;població;;9848
+2022;Conca de Barberà;total;població;;20211
+2022;Garraf;homes;població;;77403
+2022;Garraf;dones;població;;78928
+2022;Garraf;total;població;;156331
+2022;Garrigues;homes;població;;9969
+2022;Garrigues;dones;població;;9058
+2022;Garrigues;total;població;;19027
+2022;Garrotxa;homes;població;;30176
+2022;Garrotxa;dones;població;;29518
+2022;Garrotxa;total;població;;59694
+2022;Gironès;homes;població;;97871
+2022;Gironès;dones;població;;99576
+2022;Gironès;total;població;;197447
+2022;Maresme;homes;població;;227681
+2022;Maresme;dones;població;;233746
+2022;Maresme;total;població;;461427
+2022;Moianès;homes;població;;7427
+2022;Moianès;dones;població;;6961
+2022;Moianès;total;població;;14388
+2022;Montsià;homes;població;;34866
+2022;Montsià;dones;població;;34142
+2022;Montsià;total;població;;69008
+2022;Noguera;homes;població;;20385
+2022;Noguera;dones;població;;18803
+2022;Noguera;total;població;;39188
+2022;Osona;homes;població;;82910
+2022;Osona;dones;població;;81869
+2022;Osona;total;població;;164779
+2022;Pallars Jussà;homes;població;;6794
+2022;Pallars Jussà;dones;població;;6460
+2022;Pallars Jussà;total;població;;13254
+2022;Pallars Sobirà;homes;població;;3728
+2022;Pallars Sobirà;dones;població;;3489
+2022;Pallars Sobirà;total;població;;7217
+2022;Pla d'Urgell;homes;població;;19247
+2022;Pla d'Urgell;dones;població;;18163
+2022;Pla d'Urgell;total;població;;37410
+2022;Pla de l'Estany;homes;població;;16385
+2022;Pla de l'Estany;dones;població;;16508
+2022;Pla de l'Estany;total;població;;32893
+2022;Priorat;homes;població;;4883
+2022;Priorat;dones;població;;4428
+2022;Priorat;total;població;;9311
+2022;Ribera d'Ebre;homes;població;;11176
+2022;Ribera d'Ebre;dones;població;;10741
+2022;Ribera d'Ebre;total;població;;21917
+2022;Ripollès;homes;població;;12820
+2022;Ripollès;dones;població;;12758
+2022;Ripollès;total;població;;25578
+2022;Segarra;homes;població;;12382
+2022;Segarra;dones;població;;11232
+2022;Segarra;total;població;;23614
+2022;Segrià;homes;població;;107023
+2022;Segrià;dones;població;;104450
+2022;Segrià;total;població;;211473
+2022;Selva;homes;població;;89628
+2022;Selva;dones;població;;87344
+2022;Selva;total;població;;176972
+2022;Solsonès;homes;població;;6934
+2022;Solsonès;dones;població;;6751
+2022;Solsonès;total;població;;13685
+2022;Tarragonès;homes;població;;130614
+2022;Tarragonès;dones;població;;133062
+2022;Tarragonès;total;població;;263676
+2022;Terra Alta;homes;població;;5815
+2022;Terra Alta;dones;població;;5604
+2022;Terra Alta;total;població;;11419
+2022;Urgell;homes;població;;18995
+2022;Urgell;dones;població;;18375
+2022;Urgell;total;població;;37370
+2022;Vallès Occidental;homes;població;;460712
+2022;Vallès Occidental;dones;població;;477644
+2022;Vallès Occidental;total;població;;938356
+2022;Vallès Oriental;homes;població;;207664
+2022;Vallès Oriental;dones;població;;209094
+2022;Vallès Oriental;total;població;;416758
+2022;Catalunya;homes;població;;3820173
+2022;Catalunya;dones;població;;3941650
+2022;Catalunya;total;població;;7761823
+2023;Alt Camp;homes;població;;23428
+2023;Alt Camp;dones;població;;22648
+2023;Alt Camp;total;població;;46076
+2023;Alt Empordà;homes;població;;73577
+2023;Alt Empordà;dones;població;;73189
+2023;Alt Empordà;total;població;;146766
+2023;Alt Penedès;homes;població;;56254
+2023;Alt Penedès;dones;població;;56206
+2023;Alt Penedès;total;població;;112460
+2023;Alt Urgell;homes;població;;10407
+2023;Alt Urgell;dones;població;;10355
+2023;Alt Urgell;total;població;;20762
+2023;Alta Ribagorça;homes;població;;2089
+2023;Alta Ribagorça;dones;població;;1930
+2023;Alta Ribagorça;total;població;;4019
+2023;Anoia;homes;població;;63915
+2023;Anoia;dones;població;;62837
+2023;Anoia;total;població;;126752
+2023;Aran;homes;població;;5377
+2023;Aran;dones;població;;5119
+2023;Aran;total;població;;10496
+2023;Bages;homes;població;;90824
+2023;Bages;dones;població;;92441
+2023;Bages;total;població;;183265
+2023;Baix Camp;homes;població;;99393
+2023;Baix Camp;dones;població;;102254
+2023;Baix Camp;total;població;;201647
+2023;Baix Ebre;homes;població;;41258
+2023;Baix Ebre;dones;població;;40076
+2023;Baix Ebre;total;població;;81334
+2023;Baix Empordà;homes;població;;70528
+2023;Baix Empordà;dones;població;;70801
+2023;Baix Empordà;total;població;;141329
+2023;Baix Llobregat;homes;població;;412229
+2023;Baix Llobregat;dones;població;;428343
+2023;Baix Llobregat;total;població;;840572
+2023;Baix Penedès;homes;població;;57950
+2023;Baix Penedès;dones;població;;57751
+2023;Baix Penedès;total;població;;115701
+2023;Barcelonès;homes;població;;1110441
+2023;Barcelonès;dones;població;;1203534
+2023;Barcelonès;total;població;;2313975
+2023;Berguedà;homes;població;;20300
+2023;Berguedà;dones;població;;20318
+2023;Berguedà;total;població;;40618
+2023;Cerdanya;homes;població;;10202
+2023;Cerdanya;dones;població;;9683
+2023;Cerdanya;total;població;;19885
+2023;Conca de Barberà;homes;població;;10503
+2023;Conca de Barberà;dones;població;;9977
+2023;Conca de Barberà;total;població;;20480
+2023;Garraf;homes;població;;78535
+2023;Garraf;dones;població;;80589
+2023;Garraf;total;població;;159124
+2023;Garrigues;homes;població;;9898
+2023;Garrigues;dones;població;;9037
+2023;Garrigues;total;població;;18935
+2023;Garrotxa;homes;població;;31067
+2023;Garrotxa;dones;població;;30296
+2023;Garrotxa;total;població;;61363
+2023;Gironès;homes;població;;99862
+2023;Gironès;dones;població;;101753
+2023;Gironès;total;població;;201615
+2023;Maresme;homes;població;;230180
+2023;Maresme;dones;població;;237218
+2023;Maresme;total;població;;467398
+2023;Moianès;homes;població;;7566
+2023;Moianès;dones;població;;7102
+2023;Moianès;total;població;;14668
+2023;Montsià;homes;població;;35439
+2023;Montsià;dones;població;;34805
+2023;Montsià;total;població;;70244
+2023;Noguera;homes;població;;20590
+2023;Noguera;dones;població;;18977
+2023;Noguera;total;població;;39567
+2023;Osona;homes;població;;84323
+2023;Osona;dones;població;;83183
+2023;Osona;total;població;;167506
+2023;Pallars Jussà;homes;població;;6877
+2023;Pallars Jussà;dones;població;;6532
+2023;Pallars Jussà;total;població;;13409
+2023;Pallars Sobirà;homes;població;;3764
+2023;Pallars Sobirà;dones;població;;3524
+2023;Pallars Sobirà;total;població;;7288
+2023;Pla d'Urgell;homes;població;;19422
+2023;Pla d'Urgell;dones;població;;18315
+2023;Pla d'Urgell;total;població;;37737
+2023;Pla de l'Estany;homes;població;;16568
+2023;Pla de l'Estany;dones;població;;16626
+2023;Pla de l'Estany;total;població;;33194
+2023;Priorat;homes;població;;4937
+2023;Priorat;dones;població;;4423
+2023;Priorat;total;població;;9360
+2023;Ribera d'Ebre;homes;població;;11254
+2023;Ribera d'Ebre;dones;població;;10786
+2023;Ribera d'Ebre;total;població;;22040
+2023;Ripollès;homes;població;;12900
+2023;Ripollès;dones;població;;12880
+2023;Ripollès;total;població;;25780
+2023;Segarra;homes;població;;12480
+2023;Segarra;dones;població;;11458
+2023;Segarra;total;població;;23938
+2023;Segrià;homes;població;;109380
+2023;Segrià;dones;població;;106096
+2023;Segrià;total;població;;215476
+2023;Selva;homes;població;;92043
+2023;Selva;dones;població;;90571
+2023;Selva;total;població;;182614
+2023;Solsonès;homes;població;;6918
+2023;Solsonès;dones;població;;6807
+2023;Solsonès;total;població;;13725
+2023;Tarragonès;homes;població;;133731
+2023;Tarragonès;dones;població;;136506
+2023;Tarragonès;total;població;;270237
+2023;Terra Alta;homes;població;;5821
+2023;Terra Alta;dones;població;;5652
+2023;Terra Alta;total;població;;11473
+2023;Urgell;homes;població;;19244
+2023;Urgell;dones;població;;18716
+2023;Urgell;total;població;;37960
+2023;Vallès Occidental;homes;població;;465685
+2023;Vallès Occidental;dones;població;;483341
+2023;Vallès Occidental;total;població;;949026
+2023;Vallès Oriental;homes;població;;210064
+2023;Vallès Oriental;dones;població;;212085
+2023;Vallès Oriental;total;població;;422149
+2023;Catalunya;homes;població;;3887223
+2023;Catalunya;dones;població;;4014740
+2023;Catalunya;total;població;;7901963
