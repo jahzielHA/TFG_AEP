@@ -1,0 +1,253 @@
+codi,comarca,tipus_estudis,sexe,valor
+01,alt camp,educacio_obligatoria,dones,12360
+01,alt camp,educacio_obligatoria,homes,13752
+01,alt camp,estudis_superiors,dones,5634
+01,alt camp,estudis_superiors,homes,5031
+01,alt camp,sense_educacio,dones,843
+01,alt camp,sense_educacio,homes,594
+02,alt emporda,educacio_obligatoria,dones,42108
+02,alt emporda,educacio_obligatoria,homes,45210
+02,alt emporda,estudis_superiors,dones,15174
+02,alt emporda,estudis_superiors,homes,12477
+02,alt emporda,sense_educacio,dones,3234
+02,alt emporda,sense_educacio,homes,2802
+03,alt penedes,sense_educacio,homes,855
+03,alt penedes,sense_educacio,dones,1593
+03,alt penedes,estudis_superiors,homes,12756
+03,alt penedes,educacio_obligatoria,homes,32121
+03,alt penedes,educacio_obligatoria,dones,29673
+03,alt penedes,estudis_superiors,dones,15087
+04,alt urgell,educacio_obligatoria,dones,5580
+04,alt urgell,educacio_obligatoria,homes,6303
+04,alt urgell,estudis_superiors,dones,2916
+04,alt urgell,estudis_superiors,homes,2310
+04,alt urgell,sense_educacio,dones,390
+04,alt urgell,sense_educacio,homes,261
+05,alta ribagorca,sense_educacio,dones,81
+05,alta ribagorca,sense_educacio,homes,51
+05,alta ribagorca,estudis_superiors,homes,537
+05,alta ribagorca,estudis_superiors,dones,648
+05,alta ribagorca,educacio_obligatoria,homes,1161
+05,alta ribagorca,educacio_obligatoria,dones,969
+06,anoia,educacio_obligatoria,dones,34467
+06,anoia,educacio_obligatoria,homes,38157
+06,anoia,estudis_superiors,dones,15186
+06,anoia,estudis_superiors,homes,12945
+06,anoia,sense_educacio,dones,2265
+06,anoia,sense_educacio,homes,1182
+07,bages,educacio_obligatoria,dones,50427
+07,bages,estudis_superiors,homes,20238
+07,bages,sense_educacio,dones,3111
+07,bages,estudis_superiors,dones,24099
+07,bages,educacio_obligatoria,homes,53214
+07,bages,sense_educacio,homes,1830
+08,baix camp,educacio_obligatoria,dones,53154
+08,baix camp,educacio_obligatoria,homes,54984
+08,baix camp,estudis_superiors,dones,25947
+08,baix camp,sense_educacio,dones,4566
+08,baix camp,estudis_superiors,homes,22080
+08,baix camp,sense_educacio,homes,2535
+09,baix ebre,educacio_obligatoria,homes,25248
+09,baix ebre,estudis_superiors,dones,8877
+09,baix ebre,estudis_superiors,homes,7539
+09,baix ebre,sense_educacio,dones,1890
+09,baix ebre,educacio_obligatoria,dones,22824
+09,baix ebre,sense_educacio,homes,1362
+10,baix emporda,sense_educacio,dones,2481
+10,baix emporda,educacio_obligatoria,dones,38451
+10,baix emporda,educacio_obligatoria,homes,41319
+10,baix emporda,estudis_superiors,dones,17688
+10,baix emporda,estudis_superiors,homes,14943
+10,baix emporda,sense_educacio,homes,1749
+11,baix llobregat,sense_educacio,homes,8238
+11,baix llobregat,sense_educacio,dones,16254
+11,baix llobregat,estudis_superiors,homes,109911
+11,baix llobregat,educacio_obligatoria,homes,224457
+11,baix llobregat,educacio_obligatoria,dones,220455
+11,baix llobregat,estudis_superiors,dones,123948
+12,baix penedes,sense_educacio,dones,1551
+12,baix penedes,sense_educacio,homes,924
+12,baix penedes,estudis_superiors,homes,11586
+12,baix penedes,educacio_obligatoria,dones,32154
+12,baix penedes,educacio_obligatoria,homes,34035
+12,baix penedes,estudis_superiors,dones,12864
+13,barcelones,educacio_obligatoria,dones,565032
+13,barcelones,educacio_obligatoria,homes,537510
+13,barcelones,estudis_superiors,dones,425067
+13,barcelones,sense_educacio,dones,49614
+13,barcelones,estudis_superiors,homes,374139
+13,barcelones,sense_educacio,homes,26781
+14,bergueda,educacio_obligatoria,dones,11448
+14,bergueda,educacio_obligatoria,homes,12150
+14,bergueda,estudis_superiors,homes,4866
+14,bergueda,sense_educacio,dones,501
+14,bergueda,sense_educacio,homes,219
+14,bergueda,estudis_superiors,dones,5562
+15,cerdanya,estudis_superiors,homes,2649
+15,cerdanya,sense_educacio,homes,111
+15,cerdanya,educacio_obligatoria,dones,5040
+15,cerdanya,educacio_obligatoria,homes,5691
+15,cerdanya,estudis_superiors,dones,2898
+15,cerdanya,sense_educacio,dones,180
+16,conca de barbera,sense_educacio,dones,348
+16,conca de barbera,estudis_superiors,homes,2241
+16,conca de barbera,estudis_superiors,dones,2613
+16,conca de barbera,educacio_obligatoria,dones,5583
+16,conca de barbera,educacio_obligatoria,homes,6444
+16,conca de barbera,sense_educacio,homes,207
+17,garraf,estudis_superiors,dones,25143
+17,garraf,estudis_superiors,homes,23124
+17,garraf,educacio_obligatoria,homes,40539
+17,garraf,sense_educacio,dones,1638
+17,garraf,sense_educacio,homes,927
+17,garraf,educacio_obligatoria,dones,40218
+18,garrigues,educacio_obligatoria,dones,5286
+18,garrigues,sense_educacio,dones,273
+18,garrigues,estudis_superiors,homes,1926
+18,garrigues,sense_educacio,homes,291
+18,garrigues,educacio_obligatoria,homes,6507
+18,garrigues,estudis_superiors,dones,2328
+19,garrotxa,estudis_superiors,dones,8286
+19,garrotxa,educacio_obligatoria,homes,17850
+19,garrotxa,educacio_obligatoria,dones,15762
+19,garrotxa,sense_educacio,dones,1026
+19,garrotxa,estudis_superiors,homes,6486
+19,garrotxa,sense_educacio,homes,948
+20,girones,sense_educacio,dones,3450
+20,girones,estudis_superiors,homes,23757
+20,girones,estudis_superiors,dones,29037
+20,girones,educacio_obligatoria,homes,53289
+20,girones,educacio_obligatoria,dones,50121
+20,girones,sense_educacio,homes,2757
+21,maresme,estudis_superiors,dones,71298
+21,maresme,sense_educacio,homes,6666
+21,maresme,sense_educacio,dones,9075
+21,maresme,educacio_obligatoria,dones,118539
+21,maresme,educacio_obligatoria,homes,123162
+21,maresme,estudis_superiors,homes,61860
+22,montsia,estudis_superiors,homes,6321
+22,montsia,sense_educacio,dones,1356
+22,montsia,sense_educacio,homes,1047
+22,montsia,educacio_obligatoria,homes,22278
+22,montsia,estudis_superiors,dones,7755
+22,montsia,educacio_obligatoria,dones,20148
+23,noguera,educacio_obligatoria,dones,10695
+23,noguera,educacio_obligatoria,homes,13092
+23,noguera,estudis_superiors,homes,3684
+23,noguera,sense_educacio,dones,744
+23,noguera,sense_educacio,homes,708
+23,noguera,estudis_superiors,dones,4599
+24,osona,sense_educacio,homes,1770
+24,osona,sense_educacio,dones,2775
+24,osona,estudis_superiors,homes,17877
+24,osona,estudis_superiors,dones,22347
+24,osona,educacio_obligatoria,homes,49344
+24,osona,educacio_obligatoria,dones,43719
+25,pallars jussa,sense_educacio,homes,165
+25,pallars jussa,educacio_obligatoria,dones,3414
+25,pallars jussa,sense_educacio,dones,252
+25,pallars jussa,estudis_superiors,dones,1986
+25,pallars jussa,estudis_superiors,homes,1806
+25,pallars jussa,educacio_obligatoria,homes,3906
+26,pallars sobira,sense_educacio,homes,48
+26,pallars sobira,sense_educacio,dones,75
+26,pallars sobira,estudis_superiors,homes,1182
+26,pallars sobira,estudis_superiors,dones,1287
+26,pallars sobira,educacio_obligatoria,homes,1962
+26,pallars sobira,educacio_obligatoria,dones,1677
+27,pla d'urgell,estudis_superiors,dones,4464
+27,pla d'urgell,educacio_obligatoria,dones,10158
+27,pla d'urgell,educacio_obligatoria,homes,12087
+27,pla d'urgell,sense_educacio,homes,561
+27,pla d'urgell,estudis_superiors,homes,3498
+27,pla d'urgell,sense_educacio,dones,588
+28,pla de l'estany,educacio_obligatoria,dones,8211
+28,pla de l'estany,educacio_obligatoria,homes,8961
+28,pla de l'estany,estudis_superiors,dones,5001
+28,pla de l'estany,estudis_superiors,homes,3999
+28,pla de l'estany,sense_educacio,dones,570
+28,pla de l'estany,sense_educacio,homes,558
+29,priorat,educacio_obligatoria,dones,2535
+29,priorat,educacio_obligatoria,homes,3012
+29,priorat,estudis_superiors,dones,1275
+29,priorat,estudis_superiors,homes,1197
+29,priorat,sense_educacio,dones,96
+29,priorat,sense_educacio,homes,96
+30,ribera d'ebre,sense_educacio,dones,399
+30,ribera d'ebre,estudis_superiors,dones,2724
+30,ribera d'ebre,educacio_obligatoria,homes,6942
+30,ribera d'ebre,educacio_obligatoria,dones,6342
+30,ribera d'ebre,sense_educacio,homes,273
+30,ribera d'ebre,estudis_superiors,homes,2478
+31,ripolles,educacio_obligatoria,dones,7278
+31,ripolles,estudis_superiors,dones,3366
+31,ripolles,educacio_obligatoria,homes,7635
+31,ripolles,sense_educacio,homes,336
+31,ripolles,sense_educacio,dones,546
+31,ripolles,estudis_superiors,homes,3075
+32,segarra,educacio_obligatoria,dones,6342
+32,segarra,educacio_obligatoria,homes,7782
+32,segarra,estudis_superiors,homes,2136
+32,segarra,sense_educacio,dones,474
+32,segarra,sense_educacio,homes,477
+32,segarra,estudis_superiors,dones,2592
+33,segria,sense_educacio,homes,3456
+33,segria,sense_educacio,dones,4041
+33,segria,estudis_superiors,homes,24054
+33,segria,estudis_superiors,dones,29655
+33,segria,educacio_obligatoria,homes,62529
+33,segria,educacio_obligatoria,dones,54972
+34,selva,estudis_superiors,homes,15876
+34,selva,estudis_superiors,dones,19569
+34,selva,educacio_obligatoria,homes,56856
+34,selva,educacio_obligatoria,dones,51009
+34,selva,sense_educacio,dones,3195
+34,selva,sense_educacio,homes,2628
+35,solsones,educacio_obligatoria,dones,3441
+35,solsones,sense_educacio,homes,288
+35,solsones,sense_educacio,dones,372
+35,solsones,estudis_superiors,homes,1692
+35,solsones,estudis_superiors,dones,1953
+35,solsones,educacio_obligatoria,homes,3855
+36,tarragones,educacio_obligatoria,homes,72342
+36,tarragones,educacio_obligatoria,dones,69294
+36,tarragones,estudis_superiors,homes,34089
+36,tarragones,estudis_superiors,dones,38331
+36,tarragones,sense_educacio,homes,2799
+36,tarragones,sense_educacio,dones,4485
+37,terra alta,educacio_obligatoria,dones,3543
+37,terra alta,sense_educacio,homes,207
+37,terra alta,sense_educacio,dones,285
+37,terra alta,estudis_superiors,homes,855
+37,terra alta,estudis_superiors,dones,1116
+37,terra alta,educacio_obligatoria,homes,4047
+38,urgell,sense_educacio,homes,408
+38,urgell,sense_educacio,dones,483
+38,urgell,estudis_superiors,homes,3702
+38,urgell,estudis_superiors,dones,4695
+38,urgell,educacio_obligatoria,homes,11859
+38,urgell,educacio_obligatoria,dones,10302
+39,aran,sense_educacio,dones,87
+39,aran,educacio_obligatoria,dones,2664
+39,aran,educacio_obligatoria,homes,3111
+39,aran,estudis_superiors,dones,1623
+39,aran,estudis_superiors,homes,1428
+39,aran,sense_educacio,homes,51
+40,valles occidental,educacio_obligatoria,dones,244176
+40,valles occidental,sense_educacio,homes,8079
+40,valles occidental,sense_educacio,dones,15891
+40,valles occidental,educacio_obligatoria,homes,247971
+40,valles occidental,estudis_superiors,dones,142806
+40,valles occidental,estudis_superiors,homes,126072
+41,valles oriental,estudis_superiors,homes,50487
+41,valles oriental,estudis_superiors,dones,58731
+41,valles oriental,educacio_obligatoria,homes,118422
+41,valles oriental,educacio_obligatoria,dones,111180
+41,valles oriental,sense_educacio,homes,4596
+41,valles oriental,sense_educacio,dones,6831
+42,moianes,educacio_obligatoria,dones,3630
+42,moianes,educacio_obligatoria,homes,4287
+42,moianes,estudis_superiors,dones,2160
+42,moianes,estudis_superiors,homes,1920
+42,moianes,sense_educacio,dones,108
+42,moianes,sense_educacio,homes,66
